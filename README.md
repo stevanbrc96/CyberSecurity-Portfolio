@@ -1,6 +1,4 @@
-# **Stevan Brcko \- Cybersecurity Portfolio**
 
-A detail-oriented and motivated Cybersecurity Analyst with foundational skills in threat analysis and risk mitigation, and a keen enthusiasm for the field of digital forensics. I enjoy applying a methodical, analytical approach to uncover security vulnerabilities and develop solutions that protect an organization's assets and its people. My core professional value is centered on upholding data integrity to safeguard sensitive information and build a more secure digital environment for everyone.
 
 ## **Projects**
 
